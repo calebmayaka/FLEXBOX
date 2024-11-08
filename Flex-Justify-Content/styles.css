@@ -1,3 +1,5 @@
+/* css code to illustrate the wokring of justify-content css property, spacebetween, center, space-araund, flex-start, flex-end */
+
 body .flex1{
     display: flex;
     justify-content: space-between;
