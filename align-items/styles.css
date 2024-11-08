@@ -1,0 +1,7 @@
+body{
+    display: flex;
+
+    /* the align-items propery work with flex to change the position of all flex elements on the container, flex-start, flex-end, baseline, stretch, center */
+    align-items: baseline;
+
+}
