@@ -1,0 +1,16 @@
+body {
+    display:flex;
+    flex-direction: row;
+    /* allows clex content to move from one line to another when the viewpoint chnages */
+    /* there is another value for flex-wrap, wrap-reverse - starts to wrap in the right */
+    flex-wrap: wrap;
+}
+
+body img{
+    width: 20%;
+    height: 30%;
+    /* defines the percentage of the viewpoint each element in the flex occupies */
+    flex-basis: 50%;
+
+}
+
