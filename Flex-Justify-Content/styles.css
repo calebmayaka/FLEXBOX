@@ -22,3 +22,24 @@ body h1:hover{
 .flex2 a{
     padding: 4px; 
 }
+
+.flex3{
+    display: flex;
+    justify-content: flex-end;
+}
+.flex3 a{
+    padding: 3px;
+}
+
+.flex4{
+    display: flex;
+    justify-content: center;
+}
+.flex4 a{
+    padding: 8px;
+}
+.flex5{
+    display: flex;
+    justify-content: space-around;
+}
+
