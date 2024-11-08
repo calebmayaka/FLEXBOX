@@ -1,0 +1,24 @@
+body .flex1{
+    display: flex;
+    justify-content: space-between;
+}
+body h1{
+    text-align: center;
+    color:black;
+    font-family: sans-serif;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+body h1:hover{
+    color:brown;
+    transform: scale(1.2);
+}
+
+.flex2{
+    display:flex;
+    justify-content: flex-start;
+
+}
+.flex2 a{
+    padding: 4px; 
+}
